@@ -1,7 +1,7 @@
 // MongoDB CRUD (Create, Read, Update, Delete) Operations Example
 
 // Switch to the desired database by replacing <db name> with the actual database name
-use <db name> // Example: use myDatabase
+use <db.name> // Example: use myDatabase
 
 // Create: Insert a new document into the 'books' collection
 // This command adds a book with a title and an ISBN number to the collection
